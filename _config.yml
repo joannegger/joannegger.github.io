@@ -20,8 +20,9 @@ author: Jo Ann Egger
 ###############################################
 
 navbar-links:
+  Research:
+    - The plaNETic framework: "/plaNETic/"
   Publications: "https://ui.adsabs.harvard.edu/public-libraries/Yaamr5t2RoqNsfEqP2AIZQ"
-  plaNETic: "https://github.com/joannegger/plaNETic"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
