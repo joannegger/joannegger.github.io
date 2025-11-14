@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Jo Ann Egger
+title: Home
 
 # Your name to show in the footer
 author: Jo Ann Egger
@@ -19,12 +19,12 @@ author: Jo Ann Egger
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
-#  About Me: "aboutme"
+navbar-links:
+  Publications: "https://ui.adsabs.harvard.edu/public-libraries/Yaamr5t2RoqNsfEqP2AIZQ"
+  plaNETic: "https://github.com/joannegger/plaNETic"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
