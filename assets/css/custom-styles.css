@@ -1,5 +1,9 @@
 .navbar-nav > li > a,
 .navbar-nav > li > a:link,
-.navbar-nav > li > a:visited {
-  text-transform: none !important;
+.navbar-nav > li > a:visited,
+.nav > li > a,
+.nav > li > a:link,
+.nav > li > a:visited,
+.dropdown-menu > li > a {
+    text-transform: none !important;
 }
