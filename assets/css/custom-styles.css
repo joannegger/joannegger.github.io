@@ -1,0 +1,5 @@
+.navbar-nav > li > a,
+.navbar-nav > li > a:link,
+.navbar-nav > li > a:visited {
+  text-transform: none !important;
+}
