@@ -23,8 +23,7 @@ seo_title: "Jo Ann Egger - exoplanet researcher"
 ###############################################
 
 navbar-links:
-#  Research:
-#    - The plaNETic framework: "/plaNETic/"
+  plaNETic: "https://github.com/joannegger/plaNETic"
   Publications: "https://ui.adsabs.harvard.edu/public-libraries/Yaamr5t2RoqNsfEqP2AIZQ"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
