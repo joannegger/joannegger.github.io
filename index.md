@@ -15,4 +15,4 @@ Since September 2025, I am a research fellow at the European Space Agency, based
 
 You can find an up-to-date list of my publications [here](https://ui.adsabs.harvard.edu/public-libraries/Yaamr5t2RoqNsfEqP2AIZQ).
 
-Contact me by email: [joann.egger@esa.int](mailto:joann.egger@esa.int)
+Contact me by email: joann.egger(at)esa.int
