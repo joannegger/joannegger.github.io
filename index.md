@@ -9,7 +9,7 @@ To this end, I am developing [the plaNETic framework](https://github.com/joanneg
 plaNETic has already been used in a large number of [observational publications](https://ui.adsabs.harvard.edu/public-libraries/1gUfHn6dR5qTwZ9phcfNMg).
 
 In addition, I am an external collaborator of the CHEOPS science team, where I lead an observational programme aimed at improving the radius precision of small exoplanets which potentially host a volatile-rich envelope. 
-I also have successfully obtained observing time on both HARPS and ESPRESSO and am a member of the PLATO mission consortium.
+I also have successfully obtained observing time on both HARPS and ESPRESSO.
 
 Since September 2025, I am a research fellow at the European Space Agency, based in the Netherlands. Before that, I completed my PhD at the University of Bern in May 2025.
 
